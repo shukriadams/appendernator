@@ -1,5 +1,5 @@
 package Appendernator
 
 func Append(input string) string{
-    return "appended " + input
+    return "new appended " + input
 }
